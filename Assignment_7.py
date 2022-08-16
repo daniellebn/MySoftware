@@ -7,3 +7,6 @@ for i in range(4):
 def click():
     print("Click")
 
+
+def welcome():
+    print("New Screen")
