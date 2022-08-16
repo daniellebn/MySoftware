@@ -6,7 +6,6 @@ for i in range(4):
 
 def click():
     print("Click")
-print("2023")
 
 
 def welcome():
