@@ -4,8 +4,7 @@ for i in range(4):
     print(i)
 
 
-def click():
-    print("Click")
+print("Danielle")
 
 
 def welcome():
